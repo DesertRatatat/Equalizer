@@ -4,8 +4,6 @@ This is a solution to the [Equalizer landing page challenge on Frontend Mentor](
 
 ## Table of contents
 
-#DELETE ME!
-
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
